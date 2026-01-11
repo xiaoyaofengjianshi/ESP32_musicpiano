@@ -24,7 +24,7 @@
 (18)WS2812循环彩虹灯功能
 (19)彩蛋猫猫点阵图，无法通过向前翻页访问防止误触
 
-## 硬件需求
+## 硬件需求及参考
 https://oshwhub.com/electrical-innovation-practice-b/esp32s3-based-electronic-organ
 请参考这个网址来查询硬件需求。
 
@@ -42,11 +42,6 @@ espressif/ssd1306: '*'
 
 ### 2. 编译烧录
 分别进行编译和烧录即可运行。
-
-## 贡献指南
-考核结束后，会把源代码上传至github。
-https://github.com/xiaoyaofengjianshi/ESP32_musicpiano
-可以在我的github页面贡献代码。
 
 ## 许可证
 MIT License
